@@ -1,0 +1,2 @@
+# yolov8-monodepth2
+利用yolov8算法进行目标检测或分割，并利用monodepth2对图像进行深度估计，得到检测目标的距离信息
